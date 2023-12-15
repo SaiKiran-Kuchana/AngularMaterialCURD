@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "name": "typicode"
+    }
+  ],
+  "employees": [
+    {
+      "firstname": "Sai",
+      "lastname": "Kiran",
+      "email": "SaiKiran@gmail.com",
+      "dob": "2016-12-16T18:30:00.000Z",
+      "gender": "male",
+      "education": "Btech",
+      "company": "Demo",
+      "exp": 3,
+      "package": 9,
+      "id": 1
+    },
+    {
+      "firstname": "Wanda",
+      "lastname": "Vision",
+      "email": "Wanda@gmail.com",
+      "dob": "1992-12-10T18:30:00.000Z",
+      "gender": "other",
+      "education": "Diploma",
+      "company": "Avengers",
+      "exp": 3,
+      "package": 5,
+      "id": 2
+    },
+    {
+      "firstname": "Captian ",
+      "lastname": "America",
+      "email": "Caption@gmail.com",
+      "dob": "1968-09-08T18:30:00.000Z",
+      "gender": "male",
+      "education": "Inter",
+      "company": "Avengers",
+      "exp": 9,
+      "package": 12,
+      "id": 3
+    }
+  ]
+}
